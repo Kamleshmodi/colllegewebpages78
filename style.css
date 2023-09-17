@@ -1,6 +1,6 @@
 
 body{
-	background:#fff url(../images/background.gif) repeat-x center 187px;
+	background:#fff url(background.gif) repeat-x center 187px;
 	color:#585858;
 	font-family:Arial;
 	font-size:14px;
@@ -22,11 +22,11 @@ img{
 	visibility:hidden;
 }
 #page{
-	background:url(../images/background.jpg) no-repeat center 180px;
+	background:url(background.jpg) no-repeat center 180px;
 	width:100%;
 }
 #header{
-	background:url(../images/bg-header.gif) repeat-x;
+	background:url(bg-header.gif) repeat-x;
 	height:auto;
 	overflow:hidden;
 	position:relative;
@@ -78,17 +78,17 @@ img{
 	height:43px;
 }
 #header ul li.current a{
-	background:url(../images/bg-menu.gif) repeat-x;
+	background:url(bg-menu.gif) repeat-x;
 	color:#2a495e;
 	font-weight:bold;
 	text-shadow:1px 1px 0 #a8d32c;
 }
 #header ul li a:hover{
-	background:url(../images/bg-menu.gif) repeat-x;
+	background:url(bg-menu.gif) repeat-x;
 }
 
 #header div#tagline{
-	background:url(../image/head.jpg) no-repeat center -20px;
+	background:url(head.jpg) no-repeat center -20px;
 	margin-top 10px;
 }
 #header div#tagline div{
@@ -117,7 +117,7 @@ img{
 	width:340px;
 }
 #content{
-	background:url(../images/bg-content.gif) no-repeat top center;
+	background:url(bg-content.gif) no-repeat top center;
 	margin:0 auto;
 	min-height:174px;
 	overflow:hidden;
@@ -126,7 +126,7 @@ img{
 	;
 }
 #content div#home{
-	background:url(../images/bg-home.gif) no-repeat top center;
+	background:url(images/bg-home.gif) no-repeat top center;
 	margin:-0 auto 0;
 	min-height:160px;
 	overflow:hidden;
